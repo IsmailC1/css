@@ -1,0 +1,34 @@
+h1{
+
+}
+body{
+    border-color: #bdc3c7;
+}
+h2{
+   color: #01040f;
+   font-family: source sans pro;
+}
+div {
+    width: 700px;
+    border: 25px solid #bdc3c7;
+    padding: 25px;
+    margin: 25px;
+    margin-left: 300px;
+}
+p{
+    font-family: source sans pro;
+    font-size:800;
+    font-weight: 800;
+   
+}
+#me{
+    border-bottom: 1px solid rgb(163, 163, 219);
+}
+
+#now {
+    font-display: uppercase;
+    color: rgb(95, 95, 247);
+}
+#later{
+    color:rgb(51, 51, 230);
+}
