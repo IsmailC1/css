@@ -1,0 +1,24 @@
+img {
+    width: 100%;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    max-height: 17vw;
+      min-height: 17vw;
+      max-width:17vw;
+      min-width: 17vw;
+  }
+
+  .flex{
+    display: flex;
+flex-wrap: wrap;
+}
+body{
+    padding-top:70px;
+}
+.jumbotron{
+    color:#2c3e50;
+}
+.navbar-inverse {
+    color:#2c3e50;
+}
