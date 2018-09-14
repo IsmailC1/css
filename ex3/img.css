@@ -9,7 +9,7 @@ img {
       min-width: 17vw;
   }
 
-  .flex{
+  flex{
     display: flex;
 flex-wrap: wrap;
 }
@@ -18,7 +18,15 @@ body{
 }
 .jumbotron{
     color:#2c3e50;
+    background: #ecf0f1;
 }
 .navbar-inverse {
     color:#2c3e50;
+    background: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
 }
